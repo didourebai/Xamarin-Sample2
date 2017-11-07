@@ -1,0 +1,17 @@
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\WorkshopDay2.dll
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\WorkshopDay2.pdb
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\Xamarin.Forms.Core.dll
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\Xamarin.Forms.Core.xml
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\obj\Debug\WorkshopDay2.csprojResolveAssemblyReference.cache
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\obj\Debug\WorkshopDay2.csproj.CoreCompileInputs.cache
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\obj\Debug\WorkshopDay2.MainPage.xaml.g.cs
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\obj\Debug\WorkshopDay2.App.xaml.g.cs
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\obj\Debug\WorkshopDay2.dll
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\obj\Debug\WorkshopDay2.pdb
+D:\Workshop-ARDIA-Interrupteur\WorkshopDay2\WorkshopDay2\WorkshopDay2\obj\Debug\WorkshopDay2.Page1.xaml.g.cs
